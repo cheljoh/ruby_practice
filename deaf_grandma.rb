@@ -1,4 +1,4 @@
-ready_to_quit = false #coding challene that imitates a grandma who is hard of hearing
+ready_to_quit = false #coding challenge that imitates a grandma who is hard of hearing
 puts "HEY KID!"
 
 @message_array = []
