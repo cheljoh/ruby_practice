@@ -1,4 +1,5 @@
 class Hamming #zips together two DNA sequencies, counts how many nucleotides are different
+  #from exercisms
 
   VERSION = 1
 
